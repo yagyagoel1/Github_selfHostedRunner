@@ -144,4 +144,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ### 📬 Contact
 
-Yagya Goel • [GitHub Profile](https://github.com/yagyagoel1) • [yagya.goel@example.com](mailto:yagyagoel87@gmail.com)
+Yagya Goel • [GitHub Profile](https://github.com/yagyagoel1) • [yagyagoel87@gmail.com](mailto:yagyagoel87@gmail.com)
