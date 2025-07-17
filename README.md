@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Project Overview
+### Project Overview
 
 A robust, scalable, and secure **self-hosted GitHub Actions runner** designed to power high-performance **CI/CD pipelines** for modern **backend development**, **DevOps**, and **Cloud Engineering** workflows. Leverage this solution to optimize compute resources, enforce custom security policies, reduce runtime costs, and integrate seamlessly with container orchestration platforms.
 
