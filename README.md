@@ -145,5 +145,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ### 📬 Contact
 
 Yagya Goel • [GitHub Profile](https://github.com/yagyagoel1) • [yagya.goel@example.com](mailto:yagyagoel87@gmail.com)
-
-**Keywords**: CI/CD, Self-Hosted Runner, GitHub Actions, DevOps, Backend Development, Cloud Infrastructure, Docker, Kubernetes, IaC, Automation, Monitoring, Security, Scalability, High Availability, Platform Engineering
